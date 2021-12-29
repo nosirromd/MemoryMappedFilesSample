@@ -33,8 +33,10 @@ command to run if program contains helper info
 
 ## Authors
 
-ex. DC Morrison mods 
-ex. Christian Nagel samples
+Contributors names and contact info
+
+* DC Morrison mods 
+* Christian Nagel samples
 
 ## Version History
 
